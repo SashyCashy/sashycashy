@@ -16,7 +16,7 @@ I'm looking for Sr. Staff/ Lead level frontend work where the UI carries real co
 
 If that's the problem you're hiring for, get in touch.
 
-<img width="1760" height="778" alt="download" src="https://github.com/user-attachments/assets/77529794-5460-4d68-9012-7a5fcdf3291f" />
+<img width="500" height="500" alt="download" src="https://github.com/user-attachments/assets/77529794-5460-4d68-9012-7a5fcdf3291f" />
 
 ## 🚀 Featured Pet Projects
 
