@@ -1,8 +1,22 @@
-# Hi there, I'm Sashy 👋
 
-I'm a Software Engineer focused on building clean, high-performance web applications and pipelines. 
+# Hi there, I'm Sashank Pindiproli 👋
 
-<img src="URL_TO_YOUR_PROFESSIONAL_PHOTO.jpg" width="200" align="right" alt="Sashy's Photo">
+I build the front end of enterprise products people use every day — and I've spent a decade automating the parts of that work that shouldn't need a human.
+
+Over 12+ years, I've specialized in the UI layer at scale: Angular, React, TypeScript, design systems, and the architecture decisions that keep large frontends maintainable as teams grow. Most recently at Dell Technologies, I led a 7-person team as both Tech Lead and Product Owner for InsightIQ, owning the technical direction and the roadmap.
+
+What I'm known for:
+ Automating engineering workflows. Ten invention disclosures filed at Dell, six authorized — spanning agentic SDLC, automated defect resolution, test generation, design compliance checking, and UI telemetry.
+ Frontend architecture at scale. Component libraries, micro-frontend boundaries, and performance work on data-heavy dashboards.
+ Sitting on both sides of the table. Carrying a backlog and a codebase at the same time changes how you scope work — and when you push back.
+
+Before Dell: AppDirect (Staff Engineer, Tech Lead), HM Electronics, and Sony PlayStation. M.S. Computer Science, San Diego State University.
+
+I'm looking for Sr. Staff/ Lead level frontend work where the UI carries real complexity: heavy data, long-lived codebases, teams big enough that architecture actually matters. Open to Pune, Hyderabad, and Bengaluru, and to teams in Europe, the Americas, and Australia.
+
+If that's the problem you're hiring for, get in touch.
+
+<img width="1760" height="778" alt="download" src="https://github.com/user-attachments/assets/77529794-5460-4d68-9012-7a5fcdf3291f" />
 
 ## 🚀 Featured Pet Projects
 
