@@ -1,6 +1,6 @@
 # Hi there, I'm Sashank Pindiproli 👋
 
-<img width="800" height="800" alt="1730899739802" src="https://github.com/user-attachments/assets/df921fe8-4d06-4e79-a7b7-65429f37d1a9" />
+<img width="200" height="200" alt="Sashank Pindiproli" src="https://github.com/user-attachments/assets/df921fe8-4d06-4e79-a7b7-65429f37d1a9" />
 
 I build the front end of enterprise products people use every day — and I've spent a decade automating the parts of that work that shouldn't need a human.
 
