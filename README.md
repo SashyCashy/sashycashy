@@ -17,6 +17,9 @@ I'm looking for Sr. Staff/ Lead level frontend work where the UI carries real co
 
 If that's the problem you're hiring for, get in touch.
 
+## 📫 Connect with me
+[LinkedIn]([https://www.linkedin.com/in/sashankpindiproli/])
+  
 ## 🚀 Featured Pet Projects
 
 * [**Mandi Dashboard**](YOUR_LIVE_DEMO_LINK_HERE) 
@@ -30,5 +33,4 @@ If that's the problem you're hiring for, get in touch.
 **Backend & DB:** Python, PostgreSQL, REST APIs
 **Concepts:** Infinite Scroll, API Normalization, Workflow Automation
 
-## 📫 Connect with me
-* [LinkedIn](YOUR_LINKEDIN_URL_HERE)
+
