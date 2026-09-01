@@ -18,7 +18,7 @@ I'm looking for Sr. Staff/ Lead level frontend work where the UI carries real co
 If that's the problem you're hiring for, get in touch.
 
 ## 📫 Connect with me
-[LinkedIn]([https://www.linkedin.com/in/sashankpindiproli/])
+[LinkedIn](https://www.linkedin.com/in/sashankpindiproli/)
   
 ## 🚀 Featured Pet Projects
 
