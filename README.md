@@ -22,9 +22,6 @@ If that's the problem you're hiring for, get in touch.
   
 ## 🚀 Featured Pet Projects
 
-* [**Mandi Dashboard**](YOUR_LIVE_DEMO_LINK_HERE) 
-  A full-stack agricultural price tracking dashboard. Built with React, TypeScript, and TanStack Query on the frontend, backed by a Python/PostgreSQL API that normalizes and batches government API data.
-
 * [**Financial QA Bot**](https://financial-bot-d54d.onrender.com/) · [source](https://github.com/SashyCashy/financial-bot)
   A Gradio chat app that answers financial questions two ways: RAG over an ingested corpus of financial-education pages for conceptual questions, and a tool-calling agent hitting live market data (yfinance, Yahoo Finance news) for real-time ones. Built with LangChain, Chroma, and OpenAI; deployed on Render.
 
