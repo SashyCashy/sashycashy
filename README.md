@@ -2,7 +2,7 @@
 
 <img width="200" height="200" alt="Sashank Pindiproli" src="https://github.com/user-attachments/assets/df921fe8-4d06-4e79-a7b7-65429f37d1a9" />
 
-I build the front end of enterprise products people use every day — and I've spent a decade automating the parts of that work that shouldn't need a human.
+I build the front end of enterprise products people use every day — and am exploring opportunities to automate the parts of that work that shouldn't need a human.
 
 Over 12+ years, I've specialized in the UI layer at scale: Angular, React, TypeScript, design systems, and the architecture decisions that keep large frontends maintainable as teams grow. Most recently at Dell Technologies, I led a 7-person team as both Tech Lead and Product Owner for InsightIQ, owning the technical direction and the roadmap.
 
