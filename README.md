@@ -25,8 +25,11 @@ If that's the problem you're hiring for, get in touch.
 * [**Mandi Dashboard**](YOUR_LIVE_DEMO_LINK_HERE) 
   A full-stack agricultural price tracking dashboard. Built with React, TypeScript, and TanStack Query on the frontend, backed by a Python/PostgreSQL API that normalizes and batches government API data.
 
-* [**Your Second Project**](YOUR_LIVE_DEMO_LINK_HERE)
-  A brief, one-sentence description of what this project does and the tech stack used to build it.
+* [**Financial QA Bot**](https://financial-bot-d54d.onrender.com/) · [source](https://github.com/SashyCashy/financial-bot)
+  A Gradio chat app that answers financial questions two ways: RAG over an ingested corpus of financial-education pages for conceptual questions, and a tool-calling agent hitting live market data (yfinance, Yahoo Finance news) for real-time ones. Built with LangChain, Chroma, and OpenAI; deployed on Render.
+
+* [**Travel Agent**](https://github.com/SashyCashy/travel_agent)
+  A multi-agent travel assistant: a front-line agent answers general travel questions and delegates to specialist agents for day-by-day itinerary planning and flight/hotel search (SerpAPI). Built with LangChain and `deepagents`; in progress toward LangGraph-based orchestration.
 
 ## 🛠 Technical Toolkit
 **Frontend:** React, TypeScript, Mantine UI
