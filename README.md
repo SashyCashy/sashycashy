@@ -10,6 +10,7 @@ What I'm known for:
  Automating engineering workflows. Ten invention disclosures filed at Dell, six authorized — spanning agentic SDLC, automated defect resolution, test generation, design compliance checking, and UI telemetry.
  Frontend architecture at scale. Component libraries, micro-frontend boundaries, and performance work on data-heavy dashboards.
  Sitting on both sides of the table. Carrying a backlog and a codebase at the same time changes how you scope work — and when you push back.
+ Building with LLMs outside of work hours. RAG pipelines, tool-calling agents, and multi-agent systems with LangChain — see the pet projects below.
 
 Before Dell: AppDirect (Staff Engineer, Tech Lead), HM Electronics, and Sony PlayStation. M.S. Computer Science, San Diego State University.
 
@@ -29,8 +30,9 @@ If that's the problem you're hiring for, get in touch.
   A multi-agent travel assistant: a front-line agent answers general travel questions and delegates to specialist agents for day-by-day itinerary planning and flight/hotel search (SerpAPI). Built with LangChain and `deepagents`; in progress toward LangGraph-based orchestration.
 
 ## 🛠 Technical Toolkit
-**Frontend:** React, TypeScript, Mantine UI
+**Frontend:** Angular, React, TypeScript, Mantine UI, Design Systems
+**AI / LLM:** LangChain, `deepagents`, RAG, Tool-Calling Agents, OpenAI API, Chroma (Vector Search)
 **Backend & DB:** Python, PostgreSQL, REST APIs
-**Concepts:** Infinite Scroll, API Normalization, Workflow Automation
+**Concepts:** Agentic Workflows, Infinite Scroll, API Normalization, Workflow Automation
 
 
