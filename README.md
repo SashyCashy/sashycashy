@@ -23,6 +23,9 @@ If that's the problem you're hiring for, get in touch.
   
 ## 🚀 Featured Pet Projects
 
+* [**Micro Bytes**](https://micro-bytes.onrender.com/) · [source](https://github.com/SashyCashy/micro-bytes)
+  Food and recipe search across two public APIs — TheMealDB for recipes, Open Food Facts for packaged products — normalized behind one Flask API so the React front end renders a single shape. React 19 + Mantine, with light/dark theming, URL-driven search state, and React Query caching. Containerized with Docker (nginx serving the built bundle, gunicorn behind it) and deployed on Render.
+
 * [**Financial QA Bot**](https://financial-bot-d54d.onrender.com/) · [source](https://github.com/SashyCashy/financial-bot)
   A Gradio chat app that answers financial questions two ways: RAG over an ingested corpus of financial-education pages for conceptual questions, and a tool-calling agent hitting live market data (yfinance, Yahoo Finance news) for real-time ones. Built with LangChain, Chroma, and OpenAI; deployed on Render.
 
@@ -32,7 +35,8 @@ If that's the problem you're hiring for, get in touch.
 ## 🛠 Technical Toolkit
 **Frontend:** Angular, React, TypeScript, Mantine UI, Design Systems
 **AI / LLM:** LangChain, `deepagents`, RAG, Tool-Calling Agents, OpenAI API, Chroma (Vector Search)
-**Backend & DB:** Python, PostgreSQL, REST APIs
+**Backend & DB:** Python, Flask, PostgreSQL, REST APIs
+**Infrastructure:** Docker, nginx, Render
 **Concepts:** Agentic Workflows, Infinite Scroll, API Normalization, Workflow Automation
 
 
