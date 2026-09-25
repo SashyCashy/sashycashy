@@ -10,7 +10,7 @@ What I'm known for:
  Automating engineering workflows. Ten invention disclosures filed at Dell, six authorized — spanning agentic SDLC, automated defect resolution, test generation, design compliance checking, and UI telemetry.
  Frontend architecture at scale. Component libraries, micro-frontend boundaries, and performance work on data-heavy dashboards.
  Sitting on both sides of the table. Carrying a backlog and a codebase at the same time changes how you scope work — and when you push back.
- Building with LLMs outside of work hours. RAG pipelines, tool-calling agents, and multi-agent systems with LangChain — see the pet projects below.
+ Building with LLMs outside of work hours. RAG pipelines, tool-calling agents, and multi-agent systems with LangChain and LangGraph — see the pet projects below.
 
 Before Dell: AppDirect (Staff Engineer, Tech Lead), HM Electronics, and Sony PlayStation. M.S. Computer Science, San Diego State University.
 
@@ -23,6 +23,9 @@ If that's the problem you're hiring for, get in touch.
   
 ## 🚀 Featured Pet Projects
 
+* [**Multi-Agent Content Writer**](https://github.com/SashyCashy/multi-agent-content-writer)
+  A LangGraph system that routes each request to one of three agents — an SEO blog writer, an X/Twitter writer, and a general handler — each defined as graph nodes rather than a prompt chain. The two writers run autonomous tool-calling loops: draft, call a tool, read the result, decide whether to call another. Tools are split by cost (deep Tavily research vs. cheap lookups), with the expensive one bound only to the blog writer so the limit is structural rather than a prompt request. Routing uses structured output constrained to a `Literal`, so an invalid route is impossible by construction, and a checkpointer keyed by `thread_id` gives real conversation memory. Gemini via `langchain-google-genai`; 18 tests split into free offline structural checks and opt-in live tiers.
+
 * [**Micro Bytes**](https://micro-bytes.onrender.com/) · [source](https://github.com/SashyCashy/micro-bytes)
   Food and recipe search across two public APIs — TheMealDB for recipes, Open Food Facts for packaged products — normalized behind one Flask API so the React front end renders a single shape. React 19 + Mantine, with light/dark theming, URL-driven search state, and React Query caching. Containerized with Docker (nginx serving the built bundle, gunicorn behind it) and deployed on Render.
 
@@ -34,9 +37,9 @@ If that's the problem you're hiring for, get in touch.
 
 ## 🛠 Technical Toolkit
 **Frontend:** Angular, React, TypeScript, Mantine UI, Design Systems
-**AI / LLM:** LangChain, `deepagents`, RAG, Tool-Calling Agents, OpenAI API, Chroma (Vector Search)
+**AI / LLM:** LangChain, LangGraph, `deepagents`, RAG, Tool-Calling Agents, OpenAI API, Gemini API, Chroma (Vector Search)
 **Backend & DB:** Python, Flask, PostgreSQL, REST APIs
 **Infrastructure:** Docker, nginx, Render
-**Concepts:** Agentic Workflows, Infinite Scroll, API Normalization, Workflow Automation
+**Concepts:** Agentic Workflows, Multi-Agent Orchestration, Stateful Graphs & Checkpointing, Infinite Scroll, API Normalization, Workflow Automation
 
 
